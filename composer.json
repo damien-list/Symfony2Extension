@@ -1,5 +1,5 @@
 {
-    "name": "behat/symfony2-extension",
+    "name": "damien-list/symfony2-extension",
     "type": "behat-extension",
     "description": "Symfony2 framework extension for Behat",
     "keywords": ["symfony", "framework", "bdd"],
@@ -18,7 +18,7 @@
 
     "require": {
         "php":                       ">=5.3.3",
-        "behat/behat":               "^3.4.3",
+        "damien-list/behat":         "dev-master",
         "symfony/framework-bundle":  "~2.0|~3.0|~4.0"
     },
 
